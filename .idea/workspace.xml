@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e13ebdc-bd15-4c64-9709-cfb3454500c1" name="变更" comment="创建项目">
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/kob/backend/config/CorsConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/kob/backend/controller/botInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/kob/backend/controller/botInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679455234985</updated>
       <workItem from="1679455236785" duration="5458000" />
-      <workItem from="1679470046581" duration="3486000" />
+      <workItem from="1679470046581" duration="5135000" />
     </task>
     <task id="LOCAL-00001" summary="创建项目">
       <created>1679472513790</created>
